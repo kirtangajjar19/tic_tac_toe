@@ -1,10 +1,11 @@
 import "./App.css";
 import ExampleCounter from "./components/ExampleCounter";
+import TimerComponent from "./components/TimerComponent";
 
 function App() {
   return (
     <div class="game">
-      <ExampleCounter name="Batman" />
+      <TimerComponent/>
     </div>
   );
 }
