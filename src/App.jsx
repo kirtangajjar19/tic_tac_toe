@@ -4,7 +4,7 @@ import ExampleCounter from "./components/ExampleCounter";
 function App() {
   return (
     <div>
-      <ExampleCounter name="Kirtan" />
+      <ExampleCounter name="Batman" />
     </div>
   );
 }
