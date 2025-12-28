@@ -3,7 +3,7 @@ import ExampleCounter from "./components/ExampleCounter";
 
 function App() {
   return (
-    <div>
+    <div class="game">
       <ExampleCounter name="Batman" />
     </div>
   );
